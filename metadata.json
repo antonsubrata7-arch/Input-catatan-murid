@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pelanggaran & Pemanggilan Murid - SMPN 1 Kota Pontianak",
+  "description": "Aplikasi pencatatan pelanggaran tata tertib siswa, penerbitan surat pemanggilan orang tua/wali murid resmi, dan analitik grafik penanganan bimbingan konseling SMP Negeri 1 Kota Pontianak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
